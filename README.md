@@ -1,1 +1,1 @@
-# supersimpledev-JavaScript-amazon-project
+# supersimpledev-JavaScript-amazon-project-clone
